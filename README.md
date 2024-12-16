@@ -1,4 +1,4 @@
 # trial
 This is my trial Repo.
 <br>
-Author: Nupur Mahajan
+Author: Nupur Mahajan(Trail)
